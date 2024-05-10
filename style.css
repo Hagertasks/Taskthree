@@ -1,0 +1,86 @@
+.header {
+  height: 50px;
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+}
+.padding {
+  padding-left: 20px;
+}
+
+.parg1 {
+  background-color: black;
+  display: inline;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+}
+.parg2 {
+  background-color: #ddd;
+  display: inline;
+  font-size: 18px;
+}
+
+.empty {
+  border: 16px solid black;
+}
+.text {
+  text-align: center;
+}
+.span {
+  background-color: black;
+  color: white;
+}
+.white {
+  background-color: white;
+}
+
+.inline {
+  border: 2px solid rgb(13, 105, 75);
+  float: right;
+  width: 70%;
+  font-size: 22px;
+}
+
+.one {
+  display: inline-block;
+
+  background-color: rgb(13, 105, 75);
+  color: white;
+  width: 18%;
+  height: 70px;
+  text-align: center;
+}
+
+.all {
+  display: inline-block;
+  color: rgb(13, 105, 75);
+  width: 26.5%;
+  height: 70px;
+  text-align: center;
+}
+
+.paddingleft {
+  padding-left: 50px;
+}
+.bluback {
+  border: 20px solid rgb(67, 116, 172);
+}
+.whiteback {
+  background-color: white;
+  width: 100%;
+  display: inline-block;
+}
+.block {
+  background-color: blue;
+  color: white;
+  display: inline-flex;
+  width: 20%;
+  margin-right: 40px;
+}
+
+.inlinespan {
+  border: 2px solid black;
+  padding: 10px;
+  margin-right: 10px;
+}
